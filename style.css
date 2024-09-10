@@ -1,0 +1,26 @@
+ul{
+    justify-content: space-evenly;
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+}
+.h{
+    text-align: center;
+}
+.mini{
+    background-color: red;
+    text-align: center;
+    border: 1px solid white;
+    padding: 150px;
+    box-sizing: border-box;
+    font-size: 30px;
+    color: white;
+    width: 458px;
+    height: 352px;
+    top: 348px;
+    left: 43px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
